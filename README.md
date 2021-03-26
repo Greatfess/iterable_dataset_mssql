@@ -34,4 +34,4 @@ dataloader = DataLoader(dataset, batch_size=3000,
                         collate_fn=dataset.mssqlcollate)
 ```
 
-### More examples at [Example notebook](https://github.com/Greatfess/iterable_dataset_mssql/MSSQLIterableDataset_examples.ipynb)
+### More examples at [Example notebook](https://github.com/Greatfess/iterable_dataset_mssql/blob/master/MSSQLIterableDataset_examples.ipynb)
